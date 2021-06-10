@@ -1,0 +1,2 @@
+# BSQ
+Epitech BSQ Project. 
