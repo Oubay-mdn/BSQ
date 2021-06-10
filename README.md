@@ -37,5 +37,24 @@ make re
 ./bsq tests/22x22
 ```
 
+
+--------------------
+--------------------
+
+- Résulat
+
+| type       |           note            |
+|------------|---------------------------|
+| percentage | 97,9% tests passed        |
+
+- Coding style 
+
+| Minor | 0 |
+|-------|---|
+| Major | 0 |
+| Info  | 0 |
+
+* ⚠️ *PS : Attention à vous étudiants et étudiantes d'Epitech (Les -42), ceci est de l’enrichissement de connaissance et ne doit pas être utilisé comme de la triche, à bon entendeur !* 😇
+
 --------------------
 --------------------
